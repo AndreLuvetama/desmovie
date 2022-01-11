@@ -1,0 +1,17 @@
+https://github.com/devsuperior/sds-dsmovie
+https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1
+yarn create react-app frontend --template typescript
+ou
+npx create-react-app frontend --template typescript
+
+yarn start
+
+IMPORTANTE: deletar subpasta .git
+
+Criar projeto Spring Boot no Spring Initializr com as seguintes dependências:
+
+Web
+JPA
+H2
+Postgres
+Security
