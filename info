@@ -15,3 +15,11 @@ JPA
 H2
 Postgres
 Security
+
+
+Git
+git commit -m "Project created"
+git log --oneline
+git branch -M main => Muda a branch para principal
+git branch -> Mostra a branch 
+
